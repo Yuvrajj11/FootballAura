@@ -19,5 +19,20 @@ Football Aura is a real-time football web application that provides live match u
 - User authentication (sign up / login)
 - Fully responsive and styled using Tailwind CSS
 
+## 🖼️ Screenshots
 
+### Live Matches
+![Live Matches](./assets/live-matches.png)
+
+### Match Details
+![Home](./assets/match-details.png)
+
+### Match Highlights
+![Highlights](./assets/highlights.png)
+
+### Standings
+![Highlights](./assets/standings.png)
+
+### Login / Signup Page
+![Auth](./assets/login.png)
 
