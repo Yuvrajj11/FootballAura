@@ -25,14 +25,14 @@ Football Aura is a real-time football web application that provides live match u
 ![Live Matches](./assets/live-matches.png)
 
 ### Match Details
-![Home](./assets/)
+![Home](./assets/match-details.png)
 
 ### Match Highlights
-![Highlights](./assets/)
+![Highlights](./assets/highlights.png)
 
 ### Standings
-![Highlights](./assets/)
+![Highlights](./assets/standings.png)
 
 ### Login / Signup Page
-![Auth](./assets/)
+![Auth](./assets/login.png)
 
